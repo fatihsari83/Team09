@@ -1,4 +1,4 @@
-package day_28_03_whileLoop;
+package day_03_28_whileLoop;
 
 import java.util.Scanner;
 
